@@ -1,2 +1,2 @@
 # Power_BI
-Some of my power BI reports that I worked on.
+screenshots of Power BI reports that I worked on.
